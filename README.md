@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prit04&show_icons=true&theme=vue&hide_border=true)](https://github.com/Prit04)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prit04&layout=compact&theme=dark)](https://github.com/Prit04)
+
+ ### 💻 Technologies I Use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
