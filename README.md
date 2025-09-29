@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm Prithvi!👋
 
 <!--
 **Prit04/Prit04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prit04&show_icons=true&theme=vue&hide_border=true)](https://github.com/Prit04)
