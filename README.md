@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prit04&show_icons=true&theme=vue&hide_border=true)](https://github.com/Prit04)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prit04&layout=compact&theme=dark)](https://github.com/Prit04)
