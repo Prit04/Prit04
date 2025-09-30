@@ -1,18 +1,32 @@
 ## Hi there, i'm Prithvi!👋
 
-💻 Computer Science Graduate | 🚀 Aspiring Software developer, Cyber Securist & Game Dev  
+💻 Computer Science Graduate | 🚀 Aspiring in Software Development, Cyber Security & Game Dev  
 🎮 Currently building: A **Portfolio Website**  
 🔒 Exploring: **Malware analysis & digital forensics**  
 
 ---
 
 ## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+
+### Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white) 
-![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)  
+![CLI](https://img.shields.io/badge/-CLI-4EAA25?logo=gnu-bash&logoColor=white)  
+
+---
+
+### Technologies  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white)  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
 
 ---
 
