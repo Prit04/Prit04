@@ -1,9 +1,9 @@
 ## Hi there, i'm Prithvi!👋
 
-💻 Computer Science Graduate | 🚀 Aspiring in Software Development, Cyber Security & Game Development  ( <br> )
-🎮 Currently building: A **Portfolio Website**   ( <br> )
-🔒 Exploring: **Malware analysis & digital forensics**  ( <br> ) 
-💼 **Looking for work** ( <br> )
+💻 Computer Science Graduate | 🚀 Aspiring in Software Development, Cyber Security & Game Development   <br> 
+🎮 Currently building: A **Portfolio Website**    <br> 
+🔒 Exploring: **Malware analysis & digital forensics**   <br>  
+💼 **Looking for work** <br> 
 ---
 
 ## 🛠️ Tech Stack  
