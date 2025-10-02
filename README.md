@@ -2,8 +2,8 @@
 
 💻 Computer Science Graduate | 🚀 Aspiring in Software Development, Cyber Security & Game Development   <br> 
 🎮 Currently building: A **Portfolio Website**    <br> 
-🔒 Exploring: **Malware analysis & digital forensics**   <br>  
-💼 **Looking for work** <br> 
+🔒 Exploring: **Malware analysis & digital forensics**  
+💼 **Looking for work**  
 ---
 
 ## 🛠️ Tech Stack  
