@@ -1,9 +1,9 @@
 ## Hi there, i'm Prithvi!👋
 
-💻 Computer Science Graduate | 🚀 Aspiring in Software Development, Cyber Security & Game Dev  
+💻 Computer Science Graduate | 🚀 Aspiring in Software Development, Cyber Security & Game Development
 🎮 Currently building: A **Portfolio Website**  
 🔒 Exploring: **Malware analysis & digital forensics**  
-
+💼 **Looking for work**
 ---
 
 ## 🛠️ Tech Stack  
@@ -43,6 +43,7 @@
 ---
 
 ## 🎮 Fun Facts  
-- ⚡ Big **Cyberpunk 2077** fan (Johnny Silverhand is the 🐐)  
-- 🃏 Play **Yu-Gi-Oh!** (Utopia + Blue-Eyes decks)
-
+- Big **Cyberpunk 2077** fan (Johnny Silverhand is the 🐐)  
+- Play **Yu-Gi-Oh!** (Utopia + Blue-Eyes decks)
+- Massive Dungeons and Dragons nerd, ive spent alot of time as a DM making cmapaigns
+- I play guitar
