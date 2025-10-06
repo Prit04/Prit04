@@ -1,7 +1,7 @@
 ## Hi there, i'm Prithvi!👋
 
 💻 Computer Science Graduate | 🚀 Aspiring in Software Development, Cyber Security & Game Development   <br> 
-🎮 Currently building: A **Portfolio Website**    <br> 
+🎮 Currently building: A **Debut Game for Prit Games**    <br> 
 🔒 Exploring: **Malware analysis & digital forensics**  
 💼 **Looking for work**  
 ---
