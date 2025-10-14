@@ -45,5 +45,5 @@
 ## 🎮 Fun Facts  
 - Big **Cyberpunk 2077** fan (Johnny Silverhand is the 🐐)  
 - Play **Yu-Gi-Oh!** (Utopia + Blue-Eyes decks)
-- Massive Dungeons and Dragons nerd, ive spent alot of time as a DM making cmapaigns
+- Massive Dungeons and Dragons nerd, ive spent alot of time as a DM making campaigns
 - I play guitar
